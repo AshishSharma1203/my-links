@@ -1,62 +1,32 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Ashish Kumar Sharma",
+  "description": "Student | Web Developer ",
+  "image_url": "https://media.licdn.com/dms/image/D4D03AQHbnyeN9a_hGw/profile-displayphoto-shrink_800_800/0/1670706132850?e=1677715200&v=beta&t=u2ztNxZkpht3x8hZc6Ns7P0wlzrPIPTpTkGNJAQE_qg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/ashish-kumar-sharma-533025204/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/AshishSharma1203",
       "icon": "github"
     },
     {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
-    },
-    {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "https://twitter.com/_Ashish_AA",
       "icon": "twitter"
     },
     {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3G4193Q",
-      "icon": "mug"
-    },
-    {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://www.instagram.com/ashish_sharma_2.0_/",
       "icon": "instagram"
     },
     {
       "title": "Blog",
-      "url": "https://blog.links.dev",
+      "url": "https://dev.to/ashish_sharma",
       "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
-    },
-    {
-      "title": "Reddit",
-      "url": "http://bit.ly/3jx6jgU",
-      "icon": "reddit"
     }
   ]
 }
