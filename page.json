@@ -18,11 +18,7 @@
       "url": "https://twitter.com/_Ashish_AA",
       "icon": "twitter"
     },
-    {
-      "title": "Instagram",
-      "url": "https://www.instagram.com/ashish_sharma_2.0_/",
-      "icon": "instagram"
-    },
+  
      {
       "title": "LeetCode",
       "url": "https://leetcode.com/AshishSharma1203/",
@@ -37,6 +33,16 @@
       "title": "Showwcase",
       "url": "https://www.showwcase.com/ashishsharma",
       "icon": "globe-01"
+    },
+      {
+      "title": "Instagram (Coding-Profile)",
+      "url": "https://www.instagram.com/caffeine_2_code_/",
+      "icon": "instagram"
+    },
+      {
+      "title": "Instagram (Personal)",
+      "url": "https://www.instagram.com/ashish_sharma_2.0_/",
+      "icon": "instagram"
     }
   ]
 }
