@@ -23,10 +23,20 @@
       "url": "https://www.instagram.com/ashish_sharma_2.0_/",
       "icon": "instagram"
     },
+     {
+      "title": "LeetCode",
+      "url": "https://leetcode.com/AshishSharma1203/",
+      "icon": "code-02"
+    },
+     {
+      "title": "GFG",
+      "url": "https://auth.geeksforgeeks.org/user/akrsharma766",
+      "icon": "code-browser"
+    },
     {
-      "title": "Blog",
-      "url": "https://dev.to/ashish_sharma",
-      "icon": "medium"
+      "title": "Showwcase",
+      "url": "https://www.showwcase.com/ashishsharma",
+      "icon": "globe-01"
     }
   ]
 }
